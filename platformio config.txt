@@ -1,0 +1,4 @@
+Añadir las siguientes lineas en el .ini para poder hacer debug
+
+debug_tool=stlink
+upluad_tool=stlink

@@ -1,0 +1,7 @@
+Para platformio con micro chino
+
+
+añadir la linea
+set CPUTAPID 0x2ba01477
+
+en al archivo en .platformio/packages/tool-openocd/scripts/interface/stlink.cfg
